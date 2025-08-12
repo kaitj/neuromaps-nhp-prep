@@ -1,1 +1,2 @@
 *surf.gii filter=lfs diff=lfs merge=lfs -text
+*CompositeWarp.nii.gz filter=lfs diff=lfs merge=lfs -text
